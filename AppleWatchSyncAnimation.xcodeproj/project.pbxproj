@@ -15,6 +15,7 @@
 		6FAC006A2618E58300BC6745 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FAC00692618E58300BC6745 /* ComplicationController.swift */; };
 		6FAC006C2618E58300BC6745 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FAC006B2618E58300BC6745 /* Assets.xcassets */; };
 		6FAC006F2618E58300BC6745 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FAC006E2618E58300BC6745 /* Preview Assets.xcassets */; };
+		6FAC00822618E59E00BC6745 /* SyncProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FAC00812618E59E00BC6745 /* SyncProgressView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		6FAC006B2618E58300BC6745 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6FAC006E2618E58300BC6745 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6FAC00702618E58300BC6745 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FAC00812618E59E00BC6745 /* SyncProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SyncProgressView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				6FAC00652618E58300BC6745 /* ContentView.swift */,
+				6FAC00812618E59E00BC6745 /* SyncProgressView.swift */,
 				6FAC00672618E58300BC6745 /* AppleWatchSyncAnimationApp.swift */,
 				6FAC00692618E58300BC6745 /* ComplicationController.swift */,
 				6FAC006B2618E58300BC6745 /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 			files = (
 				6FAC00682618E58300BC6745 /* AppleWatchSyncAnimationApp.swift in Sources */,
 				6FAC00662618E58300BC6745 /* ContentView.swift in Sources */,
+				6FAC00822618E59E00BC6745 /* SyncProgressView.swift in Sources */,
 				6FAC006A2618E58300BC6745 /* ComplicationController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
