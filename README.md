@@ -2,4 +2,4 @@
 AppleWatchSyncAnimation written with SwiftUI
 
 
-![alt text](https://github.com/alexroemerdeveloper/ChangeRealityKitMaterials/blob/main/ColorPicker.PNG) 
+![alt text](https://github.com/alexroemerdeveloper/AppleWatchSyncAnimation/blob/main/Sync.gif) 
